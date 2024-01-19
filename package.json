@@ -18,6 +18,6 @@
   "author": "Petko Petkov",
   "license": "ISC",
   "repository": {
-    "url": "https://github.com/ppetkov89/eslint-file-muter"
+    "url": "git+https://github.com/ppetkov89/eslint-file-muter.git"
   }
 }
