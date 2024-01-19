@@ -1,0 +1,23 @@
+{
+  "name": "eslint-file-muter",
+  "version": "1.0.1",
+  "description": "A CLI tool to disable ESLint errors inside files.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "eslint-file-muter": "bin/eslint-file-muter.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "glob": "^10.3.10",
+    "yargs": "^17.7.2"
+  },
+  "author": "Petko Petkov",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/ppetkov89/eslint-file-muter"
+  }
+}
